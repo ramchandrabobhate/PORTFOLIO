@@ -13,15 +13,15 @@ function About() {
             </div>
             <div className="a-right">
                 <h1 className='a-title'>About Me</h1>
-                <p className='a-sub'>Should you or shouldn't you put the effort into crafting your perfect 'About Me' page</p>
-                <p className='a-desc'>Use this space to describe your credentials, expertise, and goals. What’s the best way to start? The following exercises can be helpful in figuring all of that out, and will help you determine what to include based on your target audience</p>
+                <p className='a-sub'>I am a Software developer work in Retail, Healthcare and Finance domain Project</p>
+                <p className='a-desc'>Working With Software industry I also work in Freelancer as website developer in React and HTML CSS as latest Technology. I try to give my best to customers by designing their portfolio in the digital marketplace to improve there business wealth </p>
 
                 <div className="a-award">
                     <img src={Award} alt="" className='a-award-img' />
 
                     <div className="a-award-text">
-                        <h4 className='a-award-title'>International Design</h4>
-                        <p className="a-award-desc">Internatinal team to work and ellobaterd nd s d</p>
+                        <h4 className='a-award-title'>Best Applicatin Developement Award 2016</h4>
+                        <p className="a-award-desc">We develop and design high level Application and architecture for our finance bank client</p>
                     </div>
                 </div>
             </div>

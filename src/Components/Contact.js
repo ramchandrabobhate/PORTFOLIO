@@ -27,26 +27,26 @@ const[done ,setDone]=useState(false);
             <div className="c-bg"></div>
             <div className="c-wrapper">
                 <div className="c-left">
-                    <h1 className="c-title">Lest discuss your product</h1>
+                    <h1 className="c-title">Let's discuss your project</h1>
                     <div className="c-info">
                         <div className="c-info-item">
                             <img src={Phone} alt="" className='c-icon' />
-                            022-0125-254
+                            7400394289
                         </div>
                         <div className="c-info-item">
                             <img src={Email} alt="" className='c-icon' />
-                            zuventus@gmail.com
+                            Ramchandrabobhate@gmail.com
                         </div>
                         <div className="c-info-item">
                             <img src={Address} alt="" className='c-icon' />
-                            west country france costarica
+                            Vartak Nagar.Thane.
                         </div>
                     </div>
                 </div>
                 <div className="c-right">
                     <p className='c-desc'>
-                        <b>What is your Story</b> Get in touch with use
-                        zuventus always help you with good vision
+                        <b>What is your Story?</b>Get in touch. Always available for
+            freelancing if the right project comes along. me.
                     </p>
                     <form ref={formref} onSubmit={handelSubmit}>
                         <input type="text" placeholder='name' name='user_name' />
